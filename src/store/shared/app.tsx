@@ -19,6 +19,7 @@ import AccountContainer from "./containers/account"
 import ForgotPasswordContainer from "./containers/forgotPassword"
 import ResetPasswordContainer from "./containers/resetPassword"
 
+import "./i18n"
 import { setCurrentPage } from "./actions"
 import { PAGE, PRODUCT_CATEGORY, PRODUCT, RESERVED, SEARCH } from "./pageTypes"
 
